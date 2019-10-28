@@ -1,0 +1,54 @@
+{
+    "ramkumar":{
+        "email" : "ramkumartrk2@gmail.com",
+        "phoneNo" : 9787983216
+    },
+
+    "karthikeyan" :
+    {
+        "email" : "karthikeyana97@gmail.com",
+        "phoneno" : 9688719019
+    },
+
+    "thilagamani" :{
+        "email" : "ramkumartrk2@gmail.com",
+        "phoneno" : 8098305290
+    },
+    "kalaimani" :
+    {
+        "email" : "yogalakshmi0505@gmail.com",
+        "phoneno" : 9944715943
+    },
+
+    "yasar" :
+    {
+        "email" : "haasirhssn@gmail.com",
+        "phoneno" : 9566831055
+    },
+    "arputhavarnam":
+    {
+        "email" : "arputhavarnam@gmail.com",
+        "phoneno" : 9944117741
+    },
+    "Aby":
+    {
+        "email" : "abinayaaby27@gmail.com",
+        "phoneno" : 8015997268
+    },
+    "Soundarya":
+    {
+        "email":"soundarya0013@gmail.com",
+        "phoneno":8148799520
+    },
+    "Vaishanavi" :
+    {
+        "email": "aarbeevaishu@gmail.com",
+        "phoneno":9626822509
+    },
+
+    "group":
+    {
+        "email":"tce-mca-2017-2020@googlegroups.com",
+        "phoneno":9788983216
+    }
+}
